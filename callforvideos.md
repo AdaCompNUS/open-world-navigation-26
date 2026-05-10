@@ -17,4 +17,11 @@ Videos should focus on failures in robot navigation. We encourage contributors t
 _Disclaimer_: Organizers reserve the right to not screen any submitted video. However, all videos submitted before the deadline will be eligible for the Best Video Award.
 
 ### Submission Instructions and Important Dates:
-Submissions should be in MP4 format (H.264 encoding for better compatibility), and no longer than 1 minute. Videos are to be uploaded at this [Google Forms link](https://forms.gle/f1pzhfvBM4BZMaVC7).
+Submissions should be in MP4 format (H.264 encoding for better compatibility). Duration should ideally be 30-40 seconds, and no longer than 1 minute. Videos are to be uploaded at this [Google Forms link](https://forms.gle/f1pzhfvBM4BZMaVC7).
+
+**Important Dates** (All deadlines are AoE):
+* Submissions open: 13th May 2026
+* Paper/video submission deadline: 14th June 2026
+* Notification of acceptance: 26th June 2026
+* Camera-ready submission: 3rd July 2026
+* Workshop date: 17th July 2026 (AM)

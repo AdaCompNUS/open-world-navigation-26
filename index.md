@@ -7,7 +7,10 @@ title:
 layout: home
 ---
 
-## <center><span style="color:#2F5597">Open World Navigation</span>: Robustness, Reliability and Failure Handling with Foundation Models</center>
+## <center><span style="color:#2F5597">Open World Navigation</span> in the Foundation Model Era: Robustness and Failure Recovery</center>
+
+##### <center>RSS 2026, Sydney, Australia</center>
+##### <center>17th July 2026, Friday, AM Session</center>
 
 <video controls="" width="100%" muted="" loop="" autoplay="">
 <source src="assets/img/own_banner_cropped.mp4" type="video/mp4">
@@ -31,22 +34,98 @@ In particular, this workshop aims to answer the questions:
 {% include people_grid.html people=speakers_and_panelists image_subdir="speakers" %}
 <br>
 
-### <center>Navitrace Challenge</center>
-We are accepting submissions to the Navitrace Challenge for VLMs in navigation! Please refer to the [NaviTrace Challenge](/open-world-navigation-26/challenge/) page for more details. 
+### <center>NaviTrace Challenge</center>
+We are accepting submissions to the NaviTrace Challenge for VLMs in navigation! Submissions will be spotlighted during a NaviTrace Challenge segment in our workshop. Please refer to the [NaviTrace Challenge](/open-world-navigation-26/challenge/) page for more details. 
+
+**Deadline**: <span style="color:red">3rd July 2026</span>
 
 🏆 **Challenge Prize**: _TBC_
+
+<p style="text-align: center;">
+<em>Time to Challenge Deadline</em>:
+</p>
+
+<center>
+<div id="countdown2" style="font-size: 1.5rem; font-weight: bold;"></div>
+<script>
+  // Countdown 2
+  const countdownDate2 = new Date("2026-07-03T20:00:00").getTime();
+  const countdownElement2 = document.getElementById("countdown2");
+
+  const updateCountdown2 = () => {
+    const now = new Date().getTime();
+    const distance = countdownDate2 - now;
+
+    if (distance < 0) {
+      countdownElement2.innerHTML = "0d 0h 0m 0s";
+      return;
+    }
+
+    const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    countdownElement2.innerHTML =
+      days + "d " + hours + "h " + minutes + "m " + seconds + "s";
+  };
+
+  updateCountdown2();
+  setInterval(updateCountdown2, 1000);
+</script>
+</center>
+<br>
+
 
 ### <center>Call for Videos</center>
 
 We are accepting short videos related to the challenges or failure modes of robot navigation systems in the open world, which we will screen during the workshop. Please refer to the [Call for Videos](/open-world-navigation-26/callforvideos/) for more details.
 
+**Deadline**: <span style="color:red">14th June 2026</span>
+
 🏆 **Best Video Award**: _TBC_
 
 ### <center>Call for Papers</center>
 
-We are accepting paper submissions related to generalization and failure handling in robot navigation. Please refer to the [Call for Papers](/open-world-navigation-26/callforpapers/) for more details.
+We are accepting paper submissions related to generalization and failure handling in robot navigation. Submitted papers should be accompanied by a brief video (30-40 seconds), highlighting limitations and failure modes of the proposed approach. Please refer to the [Call for Papers](/open-world-navigation-26/callforpapers/) for more details.
+
+**Deadline**: <span style="color:red">14th June 2026</span>
 
 🏆 **Best Paper Award**: _TBC_
+
+<p style="text-align: center;">
+<em>Time to Paper Deadline</em>:
+</p>
+
+<center>
+<div id="countdown1" style="font-size: 1.5rem; font-weight: bold;"></div>
+<script>
+  // Countdown 1
+  const countdownDate1 = new Date("2026-06-14T00:00:00").getTime();
+  const countdownElement1 = document.getElementById("countdown1");
+
+  const updateCountdown1 = () => {
+    const now = new Date().getTime();
+    const distance = countdownDate1 - now;
+  
+    if (distance < 0) {
+      countdownElement1.innerHTML = "0d 0h 0m 0s";
+      return;
+    }
+
+    const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    countdownElement1.innerHTML =
+      days + "d " + hours + "h " + minutes + "m " + seconds + "s";
+  };
+
+  updateCountdown1();
+  setInterval(updateCountdown1, 1000);
+</script>
+</center>
 
 
 ### <center>Organizers</center>
