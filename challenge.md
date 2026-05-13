@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Navitrace Challenge
+title: NaviTrace Challenge
 permalink: /challenge/
 ---
 

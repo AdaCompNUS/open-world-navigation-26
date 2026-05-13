@@ -13,7 +13,7 @@ layout: home
 ##### <center>17th July 2026, Friday, AM Session</center>
 
 <video controls="" width="100%" muted="" loop="" autoplay="">
-<source src="assets/img/own_banner_cropped.mp4" type="video/mp4">
+<source src="assets/img/own26_banner_cropped.mp4" type="video/mp4">
 </video>
 
 This workshop focuses on robust open-world navigation (OWN) in the era of foundation models. While large-scale data and foundation models have enabled impressive generalization across environments, embodiments, and scenarios, training data is bounded and such models have shown signs of brittleness, leading to failures that undermine reliable deployment. Discussions at the previous iteration of the OWN workshop clearly highlighted these and other persistent gaps in robustness and reliability when applying foundation models to navigation. Building on these insights, this second edition of the OWN workshop aims to explore these gaps by advancing our understanding of foundation models’ failure modes and exploring principled approaches to failure handling. Overall, the workshop seeks to drive a focused discussion on how to progress toward OWN with foundation models, with an emphasis on building robust, reliable, and failure-resilient systems.
