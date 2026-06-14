@@ -101,7 +101,7 @@ We are accepting paper submissions related to generalization and failure handlin
 <div id="countdown1" style="font-size: 1.5rem; font-weight: bold;"></div>
 <script>
   // Countdown 1
-  const countdownDate1 = new Date("2026-06-20T11:59:00").getTime();
+  const countdownDate1 = new Date("2026-06-19T23:59:00").getTime();
   const countdownElement1 = document.getElementById("countdown1");
 
   const updateCountdown1 = () => {
