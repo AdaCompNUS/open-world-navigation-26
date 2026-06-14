@@ -21,7 +21,7 @@ Submissions should be in MP4 format (H.264 encoding for better compatibility). D
 
 **Important Dates** (All deadlines are AoE):
 * Submissions open: 13th May 2026
-* Paper/video submission deadline: 14th June 2026
+* Paper/video submission deadline: ~~14th June 2026~~ <span style="color:red">19th June 2026</span>
 * Notification of acceptance: 26th June 2026
 * Camera-ready submission: 3rd July 2026
 * Workshop date: 17th July 2026 (AM)

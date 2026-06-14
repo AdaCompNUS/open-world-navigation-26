@@ -81,7 +81,7 @@ We are accepting submissions to the NaviTrace Challenge for VLMs in navigation! 
 
 We are accepting short videos related to the challenges or failure modes of robot navigation systems in the open world, which we will screen during the workshop. Please refer to the [Call for Videos](/open-world-navigation-26/callforvideos/) for more details.
 
-**Deadline**: <span style="color:red">14th June 2026</span>
+**Deadline**: ~~14th June 2026~~ <span style="color:red">19th June 2026</span>
 
 🏆 **Best Video Award**: _TBC_
 
@@ -89,7 +89,7 @@ We are accepting short videos related to the challenges or failure modes of robo
 
 We are accepting paper submissions related to generalization and failure handling in robot navigation. Submitted papers should be accompanied by a brief video (30-40 seconds), highlighting limitations and failure modes of the proposed approach. Please refer to the [Call for Papers](/open-world-navigation-26/callforpapers/) for more details.
 
-**Deadline**: <span style="color:red">14th June 2026</span>
+**Deadline**: ~~14th June 2026~~ <span style="color:red">19th June 2026</span>
 
 🏆 **Best Paper Award**: _TBC_
 
@@ -101,7 +101,7 @@ We are accepting paper submissions related to generalization and failure handlin
 <div id="countdown1" style="font-size: 1.5rem; font-weight: bold;"></div>
 <script>
   // Countdown 1
-  const countdownDate1 = new Date("2026-06-14T00:00:00").getTime();
+  const countdownDate1 = new Date("2026-06-20T11:59:00").getTime();
   const countdownElement1 = document.getElementById("countdown1");
 
   const updateCountdown1 = () => {
