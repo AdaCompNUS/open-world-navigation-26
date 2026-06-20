@@ -49,7 +49,7 @@ We are accepting submissions to the NaviTrace Challenge for VLMs in navigation! 
 <div id="countdown2" style="font-size: 1.5rem; font-weight: bold;"></div>
 <script>
   // Countdown 2
-  const countdownDate2 = new Date("2026-07-03T20:00:00").getTime();
+  const countdownDate2 = new Date("2026-07-03T23:59:59-12:00").getTime();
   const countdownElement2 = document.getElementById("countdown2");
 
   const updateCountdown2 = () => {
@@ -101,7 +101,8 @@ We are accepting paper submissions related to generalization and failure handlin
 <div id="countdown1" style="font-size: 1.5rem; font-weight: bold;"></div>
 <script>
   // Countdown 1
-  const countdownDate1 = new Date("2026-06-19T23:59:00").getTime();
+  const countdownDate1 = new Date("2026-06-19T23:59:59-12:00").getTime();
+
   const countdownElement1 = document.getElementById("countdown1");
 
   const updateCountdown1 = () => {
