@@ -39,7 +39,7 @@ We are accepting submissions to the NaviTrace Challenge for VLMs in navigation! 
 
 **Deadline**: <span style="color:red">3rd July 2026</span>
 
-🏆 **Challenge Prize**: _TBC_
+🏆 **Challenge Prize**: FrodoBots' [EarthRover Mini+](https://shop.frodobots.com/products/miniplus?srsltid=AfmBOoqF-NQuBkDpGgqnbnBQzYI8uS_-mR034gpT1RSw2R2ugblIqLVv)
 
 <p style="text-align: center;">
 <em>Time to Challenge Deadline</em>:
@@ -81,19 +81,19 @@ We are accepting submissions to the NaviTrace Challenge for VLMs in navigation! 
 
 We are accepting short videos related to the challenges or failure modes of robot navigation systems in the open world, which we will screen during the workshop. Please refer to the [Call for Videos](/open-world-navigation-26/callforvideos/) for more details.
 
-**Deadline**: ~~14th June 2026~~ <span style="color:red">19th June 2026</span>
+**Deadline**: ~~14th June 2026~~ <span style="color:red">26th June 2026</span>
 
-🏆 **Best Video Award**: _TBC_
+🏆 **Best Video Award**: FrodoBots' [EarthRover Mini+](https://shop.frodobots.com/products/miniplus?srsltid=AfmBOoqF-NQuBkDpGgqnbnBQzYI8uS_-mR034gpT1RSw2R2ugblIqLVv)
 
 ### <center>Call for Papers</center>
 
 We are accepting paper submissions related to generalization and failure handling in robot navigation. Submitted papers should be accompanied by a brief video (30-40 seconds), highlighting limitations and failure modes of the proposed approach. Please refer to the [Call for Papers](/open-world-navigation-26/callforpapers/) for more details.
 
-**Deadline**: ~~14th June 2026~~ <span style="color:red">19th June 2026</span>
+**Deadline**: ~~14th June 2026~~ <span style="color:red">26th June 2026</span>
 
-🏆 **Best Paper Award**: _TBC_
+🏆 **Best Paper Award**: FrodoBots' [EarthRover Mini+](https://shop.frodobots.com/products/miniplus?srsltid=AfmBOoqF-NQuBkDpGgqnbnBQzYI8uS_-mR034gpT1RSw2R2ugblIqLVv)
 
-<p style="text-align: center;">
+<!-- <p style="text-align: center;">
 <em>Time to Paper Deadline</em>:
 </p>
 
@@ -126,7 +126,7 @@ We are accepting paper submissions related to generalization and failure handlin
   updateCountdown1();
   setInterval(updateCountdown1, 1000);
 </script>
-</center>
+</center> -->
 
 
 ### <center>Organizers</center>
