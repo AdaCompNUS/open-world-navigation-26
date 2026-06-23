@@ -16,7 +16,7 @@ Given the growing promise of Vision-Language Models (VLMs) in robot navigation, 
 
 Submissions will be spotlighted during a dedicated NaviTrace challenge segment in the workshop, and will be eligible for the NaviTrace Challenge prize, to be announced and given out to the highest-scoring submission at the OWN 2026 Workshop. Since NaviTrace is an ongoing benchmark, we will consider all submissions to the leaderboard from the opening data (13th May 2026) to the deadline (3rd July 2026), as submissions to the Challenge. 
 
-🏆 **Challenge Winner Award**: _TBC_
+🏆 **Challenge Winner Award**: FrodoBots' [EarthRover Mini+](https://shop.frodobots.com/products/miniplus?srsltid=AfmBOoqF-NQuBkDpGgqnbnBQzYI8uS_-mR034gpT1RSw2R2ugblIqLVv)
 
 **Important Dates** (All deadlines are AoE):
 * Challenge opens: 13th May 2026

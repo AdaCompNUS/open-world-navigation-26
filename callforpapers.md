@@ -6,6 +6,8 @@ permalink: /callforpapers/
 
 We invite workshop paper submissions on ideas and experimental evaluations related to open-world navigation (OWN). Accepted papers will be released on the workshop website (as non-archival publications) after the conclusion of the workshop. Papers may be based on new and unpublished work, or may be an abstract based on prior publications. To encourage more sharing about failure modes and limitations of existing approaches, we encourage paper submission to be accompanied by a short 30-40 second video highlighting and analyzing the limitations of the work. Please refer to the [Call for Videos](/open-world-navigation-26/callforvideos/) for guidelines and suggestions about the video format.
 
+🏆 **Best Paper Award**: FrodoBots' [EarthRover Mini+](https://shop.frodobots.com/products/miniplus?srsltid=AfmBOoqF-NQuBkDpGgqnbnBQzYI8uS_-mR034gpT1RSw2R2ugblIqLVv)
+
 ### Topics of Interest
 We invite contributions in areas including, but not limited to the following navigation-related topics:
 

@@ -6,7 +6,7 @@ permalink: /callforvideos/
 
 We invite video contributions that highlight the challenges or failure modes of existing robot navigation systems. These videos will be screened during the workshop, and will provide discussion material to help identify key research directions for open world navigation. We are excited to announce that a Best Video award will be given at the workshop!
 
-🏆 **Best Video Award**: _TBC_
+🏆 **Best Video Award**: FrodoBots' [EarthRover Mini+](https://shop.frodobots.com/products/miniplus?srsltid=AfmBOoqF-NQuBkDpGgqnbnBQzYI8uS_-mR034gpT1RSw2R2ugblIqLVv)
 
 Videos should focus on failures in robot navigation. We encourage contributors to also include some (if not all) of the following elements in their videos:
 
