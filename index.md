@@ -10,7 +10,9 @@ layout: home
 ## <center><span style="color:#2F5597">Open World Navigation</span> in the Foundation Model Era: Robustness and Failure Recovery</center>
 
 ##### <center>RSS 2026, Sydney, Australia</center>
-##### <center>17th July 2026, Friday, AM Session</center>
+##### <center><font color='red'>UTS Building 7, Lecture Theatre: CB07.02.025</font></center>
+##### <center>8:30am - 12:30pm, 17th July 2026, Friday</center>
+
 
 <video controls="" width="100%" muted="" loop="" autoplay="">
 <source src="assets/img/own26_banner_cropped.mp4" type="video/mp4">
@@ -27,6 +29,15 @@ In particular, this workshop aims to answer the questions:
 
 <br>
 
+### <center>Getting to OWN</center>
+
+<center>From the Jones St entrance to UTS Building 7, head to the lower level (Level 2), to reach the lecture theatre (CB07.02.025)</center>
+<br>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4075.630712217298!2d151.19722297655477!3d-33.88299291979572!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12af41ce21dc09%3A0xe16dff70b1e29756!2sUTS%20Building%207%20Science%20and%20Transdisciplinary%20School!5e1!3m2!1sen!2sau!4v1784007431391!5m2!1sen!2sau" width="360" height="270" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe></center>
+
+<br>
+
+<!-- ### <center>OWN 2026 will be online!</center> -->
 
 ### <center>Speakers and Panelists</center>
 

@@ -1,6 +1,7 @@
 ---
-sequence_id: 3
+sequence_id: 4
 speaker: Moderator - Dr. Jonas Frey
-title: NaviTrace challenge - Results and audience discussion
+webpage: https://jonasfrey96.github.io/
+title: NaviTrace Challenge - Results and Analysis
 time: 0930 - 0950
 ---
