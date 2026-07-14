@@ -10,7 +10,7 @@ layout: home
 ## <center><span style="color:#2F5597">Open World Navigation</span> in the Foundation Model Era: Robustness and Failure Recovery</center>
 
 ##### <center>RSS 2026, Sydney, Australia</center>
-##### <center><font color='red'>UTS Building 7, Lecture Theatre: CB07.02.025</font></center>
+##### <center><font color='red'>UTS Building 7, Lecture Theatre: CB07.02.025 (Directions below) </font></center>
 ##### <center>8:30am - 12:30pm, 17th July 2026, Friday</center>
 
 
