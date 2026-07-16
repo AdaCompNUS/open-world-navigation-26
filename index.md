@@ -39,9 +39,9 @@ In particular, this workshop aims to answer the questions:
 
 ### <center>OWN 2026 is online!</center>
 
-<center>Join us on [Zoom](https://nus-sg.zoom.us/j/84880511692?pwd=uAygq9jOjwYcTKDTbqxmrNteEOl6rM.1)</center>
-<center>**Meeting ID**: 848 8051 1692</center>
-<center>**Passcode**: 340550</center>
+Join us on [Zoom](https://nus-sg.zoom.us/j/84880511692?pwd=uAygq9jOjwYcTKDTbqxmrNteEOl6rM.1)
+**Meeting ID**: 848 8051 1692
+**Passcode**: 340550
 
 ### <center>Speakers and Panelists</center>
 
